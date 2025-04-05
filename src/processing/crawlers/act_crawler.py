@@ -87,7 +87,3 @@ class ActCrawler:
             output = None
 
         return output
-
-
-# crawler = ActCrawler()
-# crawler.download(year=2025, act_type=ActType.USTAWA)
